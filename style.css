@@ -1,17 +1,18 @@
 body{
 	background:#89cff0;
 	font-family:Arial, Helvetica, sans-serif;
+	text-clor:white;
 }
 
 .assignment {
-	display:flex;
-	padding:10px;
-	margin:10px;
-	bakground:#008900;
+	display: flex;
+	padding: 10px;
+	margin: 10px;
+	bakground: #008900;
 }
 
 .assignment img{
-	width:300px;
+	width:250px;
 	padding:10px;
 }
 
