@@ -1,6 +1,7 @@
 body{
 	background:#89cff0;
 	font-family:Arial, Helvetica, sans-serif;
+	color:white;
 }
 
 .assignment {
@@ -8,7 +9,6 @@ body{
 	padding: 10px;
 	margin: 10px;
 	background: #008900;
-	text-color:white;
 }
 
 .assignment img{
