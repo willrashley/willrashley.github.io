@@ -1,7 +1,7 @@
 body{
 	background:#3FA663;
 	font-family:Arial, Helvetica, sans-serif;
-	color:#3391A6;
+	color:#2D7345;
 }
 
 .assignment {
@@ -17,11 +17,11 @@ body{
 }
 
 h1{
-	color:white;
+	color:#262626;
 	text-align:center;
 }
 
 a{
 	text-decoration:none;
-	color:#2D7345;
+	color:#3391A6;
 }
