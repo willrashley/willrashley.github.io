@@ -8,13 +8,15 @@ body{
 	display: flex;
 	padding: 10px;
 	margin: 10px;
-	background:#2D7345;
+	background: #2D7345;
+	border-radius: 5px;
 }
 
 .assignment img{
 	width:250px;
 	border: 2px solid #262626;
 	margin-right:20px;
+	border-radius: 5px;
 }
 
 h1{
